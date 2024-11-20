@@ -17,4 +17,4 @@
 
 1. Скачайте или клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/library-console-app.git
+   git clone https://github.com/Orxan7/test_library.git
